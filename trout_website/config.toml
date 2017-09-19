@@ -1,0 +1,6 @@
+baseURL = "http://brennangrout.com/"
+languageCode = "en-us"
+title = "Brennan Grout"
+theme = "detox"
+
+
